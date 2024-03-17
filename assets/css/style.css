@@ -1,0 +1,80 @@
+:root {
+    font-family: "Roboto"
+}
+.container-fluid {
+ background-color: #28A745;
+ color: #fff;
+}
+
+.nav-brand {
+    height: 25pt;
+}
+
+.card-pay {
+    text-align: right;
+    margin: 10px;
+    text-decoration-line: none;
+
+}
+
+.card-dscto {
+    color: #28A745;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 20pt;
+    text-decoration: none;
+}
+
+.card-body p{
+    color: #707070;
+}
+
+.card-nrml {
+    font-weight: 300;
+    font-size: 16pt;
+    text-decoration: none;
+    color:#707070
+}
+
+.fa-solid {
+    color: #707070;
+}
+
+.card-title {
+    color: #212529;
+    font-weight: 500;
+    font-size: 20pt;
+}
+
+.card-text {
+    font-weight: 300;
+    color: #707070;
+    font-size: 16pt;
+}
+
+.contact-form {
+    background-color: #28A745;
+    color: #fff;
+    padding: 25px;
+}
+
+#form input{
+    color: #00000000;
+}
+
+.logo-black {
+    height: 24pt;
+    margin-top: 30px;
+    padding: auto;
+    
+}
+
+.copy {
+    color: #707070;
+    font-weight: 300;
+    font-size: 16pt;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
